@@ -8,7 +8,7 @@ This repository contains the code and documentation for my data science internsh
 
 ## Dataset
 
-The <a href = "https://github.com/kindo-tk/PRODIGY_DS_04/blob/main/twitter_training.csv">`dataset`</a> used for this project consists of Twitter data collected from Kaggle.
+The <a href = "https://github.com/shubhamraaj/Prodigy-Infotech-Data-Science-Task-4/blob/6b3ddc4a0dbdc77711a858c049a2af75570a50cc/Twitter%20Analysis.csv">`dataset`</a> used for this project consists of Twitter data collected from Kaggle.
 
 
 ## Conclusion
