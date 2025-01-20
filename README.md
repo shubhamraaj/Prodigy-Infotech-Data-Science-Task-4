@@ -1,6 +1,6 @@
 # Prodigy-Infotech-Data-Science-Task-4
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_04/blob/main/ds4.png">
+<img src="https://github.com/shubhamraaj/Prodigy-Infotech-Data-Science-Task-4/blob/155d76420e92c5a3b314c718180be34a09b701c4/Data%20Science%20Task%204.PNG">
 
 ## Overview
 
